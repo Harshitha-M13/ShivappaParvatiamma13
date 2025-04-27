@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 **$ ShivappaParvatiamma ***
+=======
+ShivappaParvatiamma i love you...
+**$ ShivappaParvatiamma ***
+>>>>>>> feature
